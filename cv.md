@@ -7,6 +7,7 @@
 *    Location: Minsk, Belarus
 *    Email: mr.kot.yaroslav@gmail.com
 *    GitHub: https://github.com/KotaJS
+*    Discord: Kota(Яр)№5375
 ****
 #### About Me
 ****
